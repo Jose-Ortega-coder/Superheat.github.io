@@ -1,0 +1,13 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+}
+
+/* Home hero section background */
+.hero-home {
+    background: linear-gradient(135deg, #f8f9fa, #e9f3ff);
+}
+
+/* Ensure spacing above footer */
+main {
+    min-height: 60vh;
+}
